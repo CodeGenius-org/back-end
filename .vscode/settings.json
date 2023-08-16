@@ -1,0 +1,8 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+      "markdown.extension.toc.slugifyMode": "gitlab",
+
+    "dotenv.enableAutocloaking": false
+}
